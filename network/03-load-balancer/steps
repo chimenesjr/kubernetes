@@ -1,0 +1,5 @@
+expose the node-port service 8080 to external internet
+
+apply file
+
+open the external ip on chrome

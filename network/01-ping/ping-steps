@@ -1,0 +1,12 @@
+apply file
+
+login into any node
+
+kubectl get deployments -o wide
+
+kubectl exec -it [pods-name] bash
+
+apt-get install iputils-ping curl dnsutils iproute2 -y
+
+ping other pod
+

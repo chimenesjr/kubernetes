@@ -1,0 +1,11 @@
+
+apply the file and ping on...
+
+
+[service-ip]:8080
+or
+[node-ip]:30001
+
+
+Pod port: 8080
+Node port: 30001
